@@ -143,3 +143,17 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   <p><strong>DontEatMyContent preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
   <p>Source code and additional information are available <a href="https://github.com/therealFoxster/DontEatMyContent">in therealFoxster's GitHub repository</a>.</p>
 </details>
+
+<details>
+  <summary>YTABConfig</summary>
+  <p>YTABConfig is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a>  This tweak adds a new section named "A/B" in the app settings where all features can be toggled freely by you.</p>
+  <p><strong>YTABConfig preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
+  <p>Additional information are available <a href="https://github.com/PoomSmart/YTABConfig">in PoomSmart's GitHub repository</a> and in <a href="https://poomsmart.github.io/repo/depictions/ytabconfig.html"> his website</a>.</p>
+</details>
+
+<details>
+  <summary>YTweaks</summary>
+  <p>YTweaks is a tweak developed by <a href="https://github.com/fosterbarnes">fosterbarnes.</a>  This tweak adds features like night mode, disable floating miniplayer, virtual fullscreen bezels and others.</p>
+  <p><strong>YTweaks preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
+  <p>Deb file, source code and additional information are available <a href="https://github.com/fosterbarnes/YTweaks">in fosterbarnes's GitHub repository</a></p>
+</details>
