@@ -163,8 +163,9 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 https://files.catbox.moe/14rc7w.plist
 
 To use this preset, you have to:
-<strong>1.</strong> download it (on the phone) clicking on the link
 
-<strong>2.</strong>get on YTPlus,open settings>YouTube Plus>YouTube Plus Settings>Import settings
+<strong>1.</strong> Download it (on the phone) clicking on the link
 
-<strong>3.</strong>select the .plist file
+<strong>2.</strong> Get on YTPlus,open settings>YouTube Plus>YouTube Plus Settings>Import settings
+
+<strong>3.</strong> Select the .plist file
