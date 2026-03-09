@@ -161,7 +161,10 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 ## Preset settings YTPlus for lazy people
 (only works with 5.2b4)
 https://files.catbox.moe/14rc7w.plist
+
 To use this preset, you have to:
 <strong>1.</strong> download it (on the phone) clicking on the link
+
 <strong>2.</strong>get on YTPlus,open settings>YouTube Plus>YouTube Plus Settings>Import settings
+
 <strong>3.</strong>select the .plist file
