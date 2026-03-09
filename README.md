@@ -9,7 +9,7 @@ A version of YTPlus with more tweaks.
 - [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Tweak Integration Details](#tweak-integration-details)
-
+- [Preset settings YTPlus for lazy people](#Preset-settings-YTPlus-for-lazy-people)
 ## Screenshots
 <table>
    <tr>
@@ -157,3 +157,6 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   <p><strong>YTweaks preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
   <p>Deb file, source code and additional information are available <a href="https://github.com/fosterbarnes/YTweaks">in fosterbarnes's GitHub repository</a></p>
 </details>
+
+## Preset settings YTPlus for lazy people
+https://files.catbox.moe/14rc7w.plist
