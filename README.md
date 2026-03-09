@@ -1,4 +1,4 @@
-# YouTube Plus (ex. YTLite)
+# YTPlus by Mark02 (YTLite with extra tweaks)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
 ## Table of Contents
