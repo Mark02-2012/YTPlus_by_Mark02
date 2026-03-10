@@ -50,6 +50,9 @@ A version of YTPlus with more tweaks.
 
 <details>
 <summary>In Italian</summary>
+
+<strong>Funzioni principali</strong>
+
  <li>Scarica video, audio (inclusa la selezione delle tracce audio), miniature, post e immagini del profilo</li>
  <li>Copia informazioni su video, commenti e post</li>
  <li>Personalizzazione dell'interfaccia: rimuovi elementi del feed, riordina le schede, abilita la modalità OLED e usa la modalità solo Shorts</li>
