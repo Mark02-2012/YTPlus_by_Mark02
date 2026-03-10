@@ -175,6 +175,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 ## Preset settings YTPlus for lazy people
 ### (specifically for 5.2b4, not recommended on other versions)
+
 https://files.catbox.moe/14rc7w.plist
 
 To use this preset, you have to:
@@ -200,6 +201,8 @@ To use this preset, you have to:
 - No "Include Paid Promotion" in shorts
 
 - Hide Trends on shorts
+  
+- Delete app cache at startup
 
 <strong>This preset modify:</strong>
 
@@ -240,6 +243,8 @@ Per utilizzare questo preset, è necessario:
 - No "Include promozioni a pagamento" in shorts
 
 - Nascondi le tendenze in shorts
+  
+- Cancella cache allo startup
 
 <strong>Questo preset modifica:</strong>
 
