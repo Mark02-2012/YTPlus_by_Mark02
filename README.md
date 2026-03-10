@@ -60,7 +60,7 @@ A version of YTPlus with more tweaks.
 <br>
 
 
- <li>**Le preferenze di YouTube Plus si trovano nelle Impostazioni di YouTube**
+ **Le preferenze di YouTube Plus si trovano nelle Impostazioni di YouTube**
 </details>
 
 ## FAQ
