@@ -79,7 +79,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
-> 1. Fork this repository using the fork button on the top right
+> 1. Fork this repository (or the original one of dayanch96) using the fork button on the top right
 > 2. On your forked repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
 
 <details>
