@@ -58,12 +58,10 @@ A version of YTPlus with more tweaks.
  <li>SponsorBlock integrato</li>
  <li>E molto, molto altro</li>
 <br>
+
+
+ <li>**Le preferenze di YouTube Plus si trovano nelle Impostazioni di YouTube**
 </details>
-
-**Le preferenze di YouTube Plus si trovano nelle Impostazioni di YouTube**
-
-**All contributors are listed in the Contributors section**
-**Used open-source libraries are listed in the Open Source Libraries section**
 
 ## FAQ
 - [🇺🇸 English FAQ](FAQs/FAQ_EN.md)
