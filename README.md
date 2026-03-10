@@ -166,6 +166,26 @@ To use this preset, you have to:
 
 <strong>1.</strong> Download it (on the phone) clicking on the link
 
-<strong>2.</strong> Get on YTPlus,open settings>YouTube Plus>YouTube Plus Settings>Import settings
+<strong>2.</strong> Get on YTPlus, open settings>YouTube Plus>YouTube Plus Settings>Import settings
 
 <strong>3.</strong> Select the .plist file
+
+<strong>This preset enable:</strong>
+
+2 fingers-clic on the overlay to pause the long video
+
+Oled theme
+
+Remove share identifier
+
+Progress bar in shorts
+
+No "Paid Promotion"
+
+Hide Trends on shorts
+
+<strong>This preset modify:</strong>
+
+Much settings on SponsorBlock
+
+Preferred resolution with Wi-fi 1080p60 for shorts and long videos
