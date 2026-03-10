@@ -125,8 +125,8 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 ## Tweak Integration Details
 
-[!NOTE]
->YTABConfig and YTweaks are injected by me, so if you are going
+> [!NOTE]
+>YTABConfig and YTweaks are injected by me manually with sideloadly, so if you are going
 >to build by yourself with GitHub Actions you can't inject them
 >by marking them like others 
 
