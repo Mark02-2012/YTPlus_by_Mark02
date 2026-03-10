@@ -187,24 +187,24 @@ To use this preset, you have to:
 
 <strong>This preset enable:</strong>
 
-2 fingers-clic on the overlay to pause the long video
+- 2 fingers-clic on the overlay to pause the long video
 
-Oled theme
+- Oled theme
 
-YouTube Premium logo 
+- YouTube Premium logo 
 
-Remove share identifier
+- Remove share identifier
 
-Progress bar in shorts
+- Progress bar in shorts
 
-No "Paid Promotion"
+- No "Paid Promotion"
 
-Hide Trends on shorts
+- Hide Trends on shorts
 
 <strong>This preset modify:</strong>
 
-Much settings on SponsorBlock
+- Much settings on SponsorBlock
 
-Preferred resolution with Wi-fi 1080p60 for shorts and long videos
+- Preferred resolution with Wi-fi 1080p60 for shorts and long videos
 
-Add "History" on the tab bar 
+- Add "History" on the tab bar 
