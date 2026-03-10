@@ -176,6 +176,8 @@ To use this preset, you have to:
 
 Oled theme
 
+YouTube Premium logo 
+
 Remove share identifier
 
 Progress bar in shorts
