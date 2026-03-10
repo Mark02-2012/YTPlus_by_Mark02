@@ -159,7 +159,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 </details>
 
 ## Preset settings YTPlus for lazy people
-(only works with 5.2b4)
+<strong>(only works with 5.2b4)</strong>
 https://files.catbox.moe/14rc7w.plist
 
 To use this preset, you have to:
