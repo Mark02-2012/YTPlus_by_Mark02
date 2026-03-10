@@ -48,6 +48,20 @@ A version of YTPlus with more tweaks.
 
 **YouTube Plus preferences can be found in the YouTube Settings**
 
+<details>
+<summary>In Italian</summary>
+ <li>Scarica video, audio (inclusa la selezione delle tracce audio), miniature, post e immagini del profilo</li>
+ <li>Copia informazioni su video, commenti e post</li>
+ <li>Personalizzazione dell'interfaccia: rimuovi elementi del feed, riordina le schede, abilita la modalità OLED e usa la modalità solo Shorts</li>
+ <li>Impostazioni del player: gesti, qualità predefinita, traccia audio preferita</li>
+ <li>Impostazioni di salvataggio, caricamento e ripristino. Svuota la cache una volta o automaticamente all'avvio dell'app</li>
+ <li>SponsorBlock integrato</li>
+ <li>E molto, molto altro</li>
+<br>
+</details>
+
+**Le preferenze di YouTube Plus si trovano nelle Impostazioni di YouTube**
+
 **All contributors are listed in the Contributors section**
 **Used open-source libraries are listed in the Open Source Libraries section**
 
