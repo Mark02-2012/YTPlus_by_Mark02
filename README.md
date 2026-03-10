@@ -124,6 +124,12 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 </ul>
 
 ## Tweak Integration Details
+
+[!NOTE]
+>YTABConfig and YTweaks are injected by me, so if you are going
+>to build by yourself with GitHub Actions you can't inject them
+>by marking them like others 
+
 <details>
   <summary>YouPiP</summary>
   <p>YouPiP is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a> that enables the native Picture-in-Picture feature for videos in the iOS YouTube app.</p>
