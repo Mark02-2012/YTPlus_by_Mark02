@@ -189,3 +189,5 @@ Hide Trends on shorts
 Much settings on SponsorBlock
 
 Preferred resolution with Wi-fi 1080p60 for shorts and long videos
+
+Add "chronology" on the tab bar 
