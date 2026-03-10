@@ -197,14 +197,56 @@ To use this preset, you have to:
 
 - Progress bar in shorts
 
-- No "Paid Promotion"
+- No "Include Paid Promotion" in shorts
 
 - Hide Trends on shorts
 
 <strong>This preset modify:</strong>
 
-- Much settings on SponsorBlock
+- Some settings on SponsorBlock
 
-- Preferred resolution with Wi-fi 1080p60 for shorts and long videos
+- Preferred resolution with Wi-Fi 1080p60 for shorts and long videos
 
-- Add "History" on the tab bar 
+- Add "History" on the tab bar
+
+<details>
+ <summary>In Italian</summary>
+ **Impostazioni preimpostate YTPlus per i pigri**
+ **(specificamente per 5.2b4, non consigliato su altre versioni)**
+   
+https://files.catbox.moe/14rc7w.plist
+
+Per utilizzare questo preset, è necessario:
+
+<strong>1.</strong> Scaricalo (sul telefono) cliccando sul link
+
+<strong>2.</strong> Accedi a YTPlus, apri impostazioni>YouTube Plus>Impostazioni YouTube Plus>Importazione impostazioni
+
+<strong>3.</strong> Seleziona il file .plist
+
+<strong>Questo preset abilita:</strong>
+
+- Clic con 2 dita sulla sovrapposizione per mettere in pausa il video lungo
+
+- Tema Oled
+
+- Logo YouTube Premium 
+
+- Rimuovi l'identificatore di condivisione
+
+- Barra di avanzamento negli shorts
+
+- No "Include promozioni a pagamento" in shorts
+
+- Nascondi le tendenze in shorts
+
+<strong>Questo preset modifica:</strong>
+
+- Alcune impostazioni in SponsorBlock
+
+- Risoluzione preferita con Wi-Fi 1080p60 per shorts e video lunghi
+
+- Aggiungi "Cronologia" sulla barra delle schede
+</details>
+
+
