@@ -211,8 +211,9 @@ To use this preset, you have to:
 
 <details>
  <summary>In Italian</summary>
- **Impostazioni preimpostate YTPlus per i pigri**
- **(specificamente per 5.2b4, non consigliato su altre versioni)**
+ <strong>Impostazioni preimpostate YTPlus per i pigri</strong>
+   
+ <strong>(specificamente per 5.2b4, non consigliato su altre versioni)</strong>
    
 https://files.catbox.moe/14rc7w.plist
 
