@@ -117,7 +117,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 </details>
 
 
-<details
+<details>
  <summary>How to inject your YouTube Plus app you created or you have on your phone</summary>
   <li><strong>ITS NECESSARY</strong>to have <strong>iTunes</strong> and <strong>Sideloadly.</strong></li>
   <li>Connect then your phone to the pc, on Sideloadly select your phone (Connected via USB) and type your Apple ID in it</li>
@@ -125,6 +125,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   <li>Wait about 5 minutes and you will have your modded app on your phone</li>
   <li>Activate the permiss for the modded app in Settings>Generals>VPN and device management>App for app for development>allow</li>
   <li>(Before you have to enable developer mode)</li>
+</details>
 ## Supported YouTube Version
 <ul>
    <li><strong>Latest confirmed:</strong> <em>21.10.2</em></li>
