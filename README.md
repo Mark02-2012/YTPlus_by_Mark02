@@ -6,7 +6,7 @@ A version of YTPlus with more tweaks.
 - [Main Features](#main-features)
 - [FAQ](#faq)
 - [Reviews](#reviews)
-- [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
+- [How to build a YouTube Plus app using GitHub Actions and how inject it on your phone](#how-to-build-a-youtube-plus-app-using-github-actions-and-how-inject-it-on-your-phone)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Tweak Integration Details](#tweak-integration-details)
 - [Preset settings YTPlus for lazy people](#Preset-settings-YTPlus-for-lazy-people)
@@ -75,7 +75,7 @@ A version of YTPlus with more tweaks.
 ## Reviews
 Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbreak.com/blog/youtube-plus/
 
-## How to build a YouTube Plus app using Github actions
+## How to build a YouTube Plus app using Github actions and how inject it on your phone
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
