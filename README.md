@@ -7,7 +7,7 @@ A version of YTPlus with more tweaks.
 - [FAQ](#faq)
 - [Reviews](#reviews)
 - [How to build a YouTube Plus app using GitHub Actions and how inject it on your phone](#how-to-build-a-youtube-plus-app-using-github-actions-and-how-inject-it-on-your-phone)
-- [Supported YouTube Version](#supported-youtube-version)
+- [Supported YouTube Version and iOS Version](#supported-youtube-version-and-ios-version)
 - [Tweak Integration Details](#tweak-integration-details)
 - [Preset settings YTPlus for lazy people](#Preset-settings-YTPlus-for-lazy-people)
 ## Screenshots
@@ -127,11 +127,12 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   <li><strong>(Before you have to enable developer mode)</strong></li>
 </details>
 
-## Supported YouTube Version
+## Supported YouTube Version and iOS version
 <ul>
    <li><strong>Latest confirmed:</strong> <em>21.10.2</em></li>
    <li><strong>Date tested:</strong> <em>March 9, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
+   <li><strong>iOS:</strong> <em>26.3.1</em></li>
 </ul>
 
 ## Tweak Integration Details
