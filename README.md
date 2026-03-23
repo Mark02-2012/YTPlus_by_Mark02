@@ -1,6 +1,8 @@
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
+<strong>The updates will be published in 5-24 hours</strong>
+
 ## Table of Contents
 - [Screenshots](#screenshots)
 - [Main Features](#main-features)
