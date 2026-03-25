@@ -1,4 +1,4 @@
-# YouTube Plus (ex. YTLite)
+# YTPlus_by_Mark02 (or YTPlusM)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
 <strong>The updates will be published in 5-24 hours</strong>
@@ -66,7 +66,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
-> 1. Fork this repository using the fork button on the top right
+> 1. Fork this repository (or the original one by Dayanch96 <a href="https://github.com/dayanch96/YTLite">YTPlus</a> using the fork button on the top right
 > 2. On your forked repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
 
 <details>
