@@ -109,6 +109,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
    <li><strong>Date tested:</strong> <em>Apr 1, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
 </ul>
+*YTPlus for the moment doesn't work with the latest version, so until dayanch96 will publish a new stable version of YTPlus compatible with newest yt version I will not build the ipas*
 
 ## Tweak Integration Details
 <details>
