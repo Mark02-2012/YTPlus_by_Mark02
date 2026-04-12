@@ -153,3 +153,10 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   <p><strong>YTABConfig preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
   <p>Source code and additional information are available <a href="https://github.com/PoomSmart/YTABConfig">in PoomSmart's GitHub repository</a>.</p>
 </details>
+
+<details>
+ <summary>YTweaks (injected by me)</summary>
+ <p>YTweaks is a tweak developed by <a href="https://github.com/fosterbarnes">fosterbarnes</a> that adds various tweaks for the iOS YouTube app.</p>
+ <p><strong>YTweaks preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
+ <p>Source code and additional information are available <a href="https://github.com/fosterbarnes/YTweaks">in fosterbarnes' repository.</p>
+</details>
