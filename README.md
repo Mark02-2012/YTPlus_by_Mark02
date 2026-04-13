@@ -9,7 +9,7 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
 - [FAQ](#faq)
 - [Reviews](#reviews)
 - [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
-- [What Means "YTPlusM"?](#what-means-"-ytplusm-"-?)
+- [What Means YTPlusM](#what-means-ytplusm)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Supported YouTube Version For iOS 15](#supported-youtube-version-for-ios-15)
 - [Tweak Integration Details](#tweak-integration-details)
@@ -105,7 +105,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   </ol>
 </details>
 
-## What Means "YTPlusM"?
+## What Means YTPlusM
 <strong>YTPlusM releases</strong> are releases with <strong>one more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks)</a>
 
 ## Supported YouTube Version
