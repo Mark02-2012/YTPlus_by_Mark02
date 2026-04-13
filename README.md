@@ -9,7 +9,9 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
 - [FAQ](#faq)
 - [Reviews](#reviews)
 - [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
+- [What Means "YTPlusM"?](#what-means-"ytplusm"?)
 - [Supported YouTube Version](#supported-youtube-version)
+- [Supported YouTube Version For iOS 15](#supported-youtube-version-for-ios-15)
 - [Tweak Integration Details](#tweak-integration-details)
 
 ## Screenshots
@@ -103,6 +105,9 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   </ol>
 </details>
 
+## What Means "YTPlusM"?
+<strong>YTPlusM releases</strong> are releases with <strong>one more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks)</a>
+
 ## Supported YouTube Version
 <ul>
    <li><strong>Latest confirmed:</strong> <em>21.13.6</em></li>
@@ -110,6 +115,14 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
    <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
 </ul>
 <strong>⚠️YTPlus at the moment doesn't work with the latest version of yt (from 21.14.4 and above), so until Dayanch96 will publish a new stable version of YTPlus compatible with newest yt version I will not build the ipas⚠️</strong>
+
+## Supported YouTube Version For iOS 15
+<ul>
+   <li><strong>Latest confirmed:</strong> <em>20.21.6</em></li>
+   <li><strong>Date tested:</strong> <em>Apr 12 2026</em></li>
+   <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
+   View <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_20.21.6">this release (YouTube Plus)</a> and <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_20.21.6_YTweaks">this release (YTPlusM)
+</ul>
 
 ## Tweak Integration Details
 <details>
