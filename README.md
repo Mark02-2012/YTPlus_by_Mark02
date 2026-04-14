@@ -68,7 +68,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
-> 1. Fork this repository (or the original one by Dayanch96 <a href="https://github.com/dayanch96/YTLite">YTPlus</a>) using the fork button on the top right
+> 1. Fork this repository using the fork button on the top right
 > 2. On your forked repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
 
 <details>
@@ -119,7 +119,7 @@ PS: DIY=DO IT YOURSELF
    <li><strong>Date tested:</strong> <em>Apr 1, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
 </ul>
-<strong>⚠️YTPlus at the moment doesn't work with the latest version of yt (from 21.14.4 and above), so until Dayanch96 will publish a new stable version of YTPlus compatible with newest yt version I will not build the ipas⚠️</strong>
+<strong>⚠️YTPlus at the moment doesn't work with the latest versions of yt (from 21.14.4 and above), so until Dayanch96 will publish a new stable version of YTPlus compatible with newest yt version I will not build the ipas⚠️</strong>
 
 ## Supported YouTube Version For iOS 15
 <ul>
