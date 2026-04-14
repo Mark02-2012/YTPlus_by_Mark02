@@ -179,5 +179,5 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
  <p>Gonerino is a tweak developed by <a href="https://github.com/castdrian">castdrian</a>, a tweak to block specific videos, channels and words for the iOS YouTube app.</p>
  <p><strong>Gonerino preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's repository.</p>
- <p><em>Gonerino is available only from YTPlusM 21.13.6 updated and YTPlusM 20.21.6 for iOS 15</em></p>
+ <p><em>Gonerino is available only from <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_21.13.6_YTUHD_updated_YTweaks">YTPlusM 21.13.6 updated</a> and <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_20.21.6_YTweaks">YTPlusM 20.21.6 for iOS 15</a></em></p>
 </details>
