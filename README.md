@@ -106,7 +106,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 </details>
 
 ## What Means YTPlusM
-<strong>YTPlusM releases</strong> are releases with <strong>one more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks)</a>
+<strong>YTPlusM releases</strong> are releases with <strong>two more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks</a> and <a href="https://github.com/castdrian/Gonerino">Gonerino)</a>
 
 ## Supported YouTube Version
 <ul>
@@ -172,4 +172,11 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
  <p>YTweaks is a tweak developed by <a href="https://github.com/fosterbarnes">fosterbarnes</a> that adds various tweaks for the iOS YouTube app.</p>
  <p><strong>YTweaks preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/fosterbarnes/YTweaks">in fosterbarnes' repository.</p>
+</details>
+
+<details>
+ <summary>Gonerino (only on YTPlusM versions)</summary>
+ <p>Gonerino is a tweak developed by <a href="https://github.com/castdrian">castdrian</a>, a tweak to remove videos uploaded by specific channels for the iOS YouTube app.</p>
+ <p><strong>Gonerino preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
+ <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's repository.</p>
 </details>
