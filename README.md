@@ -9,7 +9,7 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
 - [FAQ](#faq)
 - [Reviews](#reviews)
 - [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
-- [What Means YTPlusM and YTPlusM_DIY](#what-means-ytplusm-and-ytplusm-diy)
+- [What Means YTPlusM and YTPlusM_DIY](#what-means-ytplusm-and-ytplusm-_-diy)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Supported YouTube Version For iOS 15](#supported-youtube-version-for-ios-15)
 - [Tweak Integration Details](#tweak-integration-details)
