@@ -39,6 +39,18 @@ on:
         required: true
         default: false
 
+      enable_ytweaks:
+        description: "NEW! Integrate YTweaks (experimental)"
+        type: boolean
+        required: true
+        default: false
+        
+      enable_gonerino:
+        description: "NEW! Integrate Gonerino (experimental)"
+        type: boolean
+        required: true
+        default: false
+
       ipa_url:
         description: "URL to the decrypted IPA file"
         default: ""
@@ -83,6 +95,8 @@ jobs:
       enable_ryd: ${{ inputs.enable_ryd }}
       enable_ytabc: ${{ inputs.enable_ytabc }}
       enable_demc: ${{ inputs.enable_demc }}
+      enable_ytweaks: ${{ inputs.enable_ytweaks }}
+      enable_gonerino: ${{ inputs.enable_gonerino }}
       tweak_version: ${{ inputs.tweak_version }}
 
   package:
@@ -129,8 +143,8 @@ jobs:
         uses: softprops/action-gh-release@v2.5.0
         with:
           tag_name: ytp-${{ github.run_number }}
-          name: YouTubePlus v${{ github.event.inputs.tweak_version }} (${{ github.run_number }})
-          files: YouTubePlus_${{ github.event.inputs.tweak_version }}.ipa
+          name: YouTubePlus v${{ github.event.inputs.tweak_version }} e (YT VERSION)
+          files: YouTubePlus_${{ github.event.inputs.tweak_version }}.(YT VERSION).ipa
           draft: true
 
       - name: Output Release URL
