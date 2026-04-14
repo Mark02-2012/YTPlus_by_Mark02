@@ -176,7 +176,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 <details>
  <summary>Gonerino (only on YTPlusM versions)</summary>
- <p>Gonerino is a tweak developed by <a href="https://github.com/castdrian">castdrian</a>, a tweak to remove videos uploaded by specific channels for the iOS YouTube app.</p>
+ <p>Gonerino is a tweak developed by <a href="https://github.com/castdrian">castdrian</a>, a tweak to block specific videos, channels and words for the iOS YouTube app.</p>
  <p><strong>Gonerino preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's repository.</p>
 </details>
