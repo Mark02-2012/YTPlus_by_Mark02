@@ -33,6 +33,16 @@ on:
         required: true
         default: false
 
+      enable_ytweaks:
+        type: boolean
+        required: true
+        default: false
+
+      enable_gonerino:
+        type: boolean
+        required: true
+        default: false
+
       tweak_version:
         type: string
         required: false
@@ -156,6 +166,14 @@ jobs:
         if: ${{ inputs.enable_demc }}
         run: git clone --quiet --depth=1 https://github.com/therealFoxster/DontEatMyContent.git
 
+      - name: Clone YTweaks
+        if: ${{ inputs.enable_ytweaks }}
+        run: git clone --quiet --depth=1 https://github.com/fosterbarnes/YTweaks.git
+
+      - name: Clone Gonerino
+        if: ${{ inputs.enable_gonerino }}
+        run: git clone --quiet --depth=1 https://github.com/castdrian/Gonerino.git
+
       - name: Build YouPiP
         if: ${{ inputs.enable_youpip }}
         run: |
@@ -203,6 +221,18 @@ jobs:
         run: |
           cd DontEatMyContent && make clean package DEBUG=0 FINALPACKAGE=1
           mv packages/*.deb ../demc.deb
+
+      - name: Build YTweaks
+        if: ${{ inputs.enable_ytweaks }}
+        run: |
+          cd YTweaks && make clean package DEBUG=0 FINALPACKAGE=1
+          mv packages/*.deb ../ytweaks.deb
+
+      - name: Build Gonerino
+        if: ${{ inputs.enable_gonerino }}
+        run: |
+          cd Gonerino && make clean package DEBUG=0 FINALPACKAGE=1
+          mv packages/*.deb ../gonerino.deb
 
       - name: Clone Open in YouTube (Safari extension)
         run: |
