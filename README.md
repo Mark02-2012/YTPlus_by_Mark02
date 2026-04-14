@@ -105,7 +105,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   </ol>
 </details>
 
-## What Means YTPlusM and YTPlus DIY
+## What Means YTPlusM and YTPlusM DIY
 <strong>YTPlusM releases</strong> are releases with <strong>two more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks</a> and <a href="https://github.com/castdrian/Gonerino">Gonerino)</a>
 
 
