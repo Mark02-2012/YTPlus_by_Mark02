@@ -1,4 +1,4 @@
-# YTPlus_by_Mark02 (or YTPlusM)
+# YTPlusM
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
 <strong>The updates will be published in 5-24 hours</strong>
