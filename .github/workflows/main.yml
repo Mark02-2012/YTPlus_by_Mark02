@@ -51,6 +51,18 @@ on:
         required: true
         default: false
 
+      enable_youspeed:
+       description: "NEW! Integrate YouSpeed (experimental)"
+       type: boolean
+       required: true
+       default: false
+
+      enable_ytvideoerroralert:
+       description: "NEW! Integrate YTVideoErrorAlert (experimental)"
+       type: boolean
+       required: true
+       default: false
+
       ipa_url:
         description: "URL to the decrypted IPA file"
         default: ""
@@ -97,6 +109,8 @@ jobs:
       enable_demc: ${{ inputs.enable_demc }}
       enable_ytweaks: ${{ inputs.enable_ytweaks }}
       enable_gonerino: ${{ inputs.enable_gonerino }}
+      enable_youspeed: ${{ inputs.enable_youspeed }}
+      enable_ytvideoerroralert: ${{ inputs.enable_ytvideoerroralert }}
       tweak_version: ${{ inputs.tweak_version }}
 
   package:
@@ -116,7 +130,7 @@ jobs:
       - name: Hide sensitive inputs
         uses: levibostian/action-hide-sensitive-inputs@v1
         with:
-          exclude_inputs: bundle_id,display_name,enable_demc,enable_ryd,enable_ytabc,enable_youpip,enable_yq,enable_ytuhd,info_note,tweak_version
+          exclude_inputs: bundle_id,display_name,enable_demc,enable_ryd,enable_ytabc,enable_youpip,enable_yq,enable_ytuhd,enable_ytweaks,enable_gonerino,enable_youspeed,enable_ytvideoerroralert,info_note,tweak_version
 
       - name: Download and validate IPA
         run: |
