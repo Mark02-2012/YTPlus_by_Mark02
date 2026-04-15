@@ -106,8 +106,12 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 </details>
 
 ## What Means YTPlusM and YTPlusM DIY
+<strong>YTPlusM</strong>
+
 <strong>YTPlusM releases</strong> are releases with <strong>two more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks</a> and <a href="https://github.com/castdrian/Gonerino">Gonerino)</a>
 
+
+<strong>YTPlusM DIY</strong>
 
 <strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Go on Actions, workflows, "Create YouTube Plus app", select the branch "YTPlusM_DIY" and create your total functioning IPA!</strong>
 View also [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions) to learn how to create YTPlus and YTPlusM IPAs.
