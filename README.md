@@ -106,9 +106,12 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 </details>
 
 ## What Means YTPlusM and YTPlusM DIY
+<li><strong>YTPlusM:</strong></li>
 <strong>YTPlusM releases</strong> are releases with <strong>two more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks</a> and <a href="https://github.com/castdrian/Gonerino">Gonerino)</a>
 
 
+
+<li><strong>YTPlusM DIY:</strong></li>
 <strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Go on Actions, workflows, "Create YouTube Plus app", select the branch "YTPlusM_DIY" and create your total functioning IPA!</strong>
 View also [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions) to learn how to create YTPlus and YTPlusM IPAs.
 PS: DIY=DO IT YOURSELF
@@ -185,4 +188,4 @@ PS: DIY=DO IT YOURSELF
  <p><strong>Gonerino preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's repository.</p>
  <p><em>Gonerino is available only from <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_21.13.6_YTUHD_updated_YTweaks">YTPlusM 21.13.6 updated</a> and <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_20.21.6_YTweaks">YTPlusM 20.21.6 for iOS 15</a> pre-built releases, but you can build your version of YTPlusM now! View "How to build a YouTube Plus app using GitHub Actions" and "What Means YTPlusM and YTPlusM DIY"</em></p>
-</details> 
+</details>
