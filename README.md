@@ -107,7 +107,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 ## What Means YTPlusM and YTPlusM DIY
 <li><strong>YTPlusM:</strong></li>
-<strong>YTPlusM releases</strong> are releases with <strong>two more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks</a> and <a href="https://github.com/castdrian/Gonerino">Gonerino)</a>
+<strong>YTPlusM releases and build</strong> are releases with <strong>three more tweak injected by me</strong> (<a href="https://github.com/fosterbarnes/YTweaks">YTweaks</a>, <a href="https://github.com/castdrian/Gonerino">Gonerino</a> and <a href="https://github.com/PoomSmart/YouSpeed">YouSpeed</a>)
 
 
 
@@ -187,5 +187,13 @@ PS: DIY=DO IT YOURSELF
  <p>Gonerino is a tweak developed by <a href="https://github.com/castdrian">castdrian</a>, a tweak to block specific videos, channels and words for the iOS YouTube app.</p>
  <p><strong>Gonerino preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's repository.</p>
- <p><em>Gonerino is available only from <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_21.13.6_YTUHD_updated_YTweaks">YTPlusM 21.13.6 updated</a> and <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_20.21.6_YTweaks">YTPlusM 20.21.6 for iOS 15</a> pre-built releases, but you can build your version of YTPlusM now! View "How to build a YouTube Plus app using GitHub Actions" and "What Means YTPlusM and YTPlusM DIY"</em></p>
+ <p><em>Gonerino is available only from <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2b4_21.13.6_updated_YTPlusM">YTPlusM 21.13.6 updated</a> and <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2b4_20.21.6_YTweaks">YTPlusM 20.21.6 for iOS 15</a> pre-built releases, but you can build your version of YTPlusM now! View "How to build a YouTube Plus app using GitHub Actions" and "What Means YTPlusM and YTPlusM DIY"</em></p>
+</details>
+
+<details>
+ <summary><strong>NEW!</strong> YouSpeed (only on YTPlusM versions)</summary>
+ <p>YouSpeed is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a>, a tweak to view, change and add video speed options in the video overlay.</p>
+ <p><strong>YouSpeed preferences</strong> are available in the <strong>Video overlay</strong> section under <strong>YouTube settings</strong>.</p>
+ <p>Source code and additional information are available <a href="https://github.com/PoomSmart/YouSpeed">in PoomSmart's repository.</p>
+ <p><em>YouSpeed is available only from <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2b4_21.13.6_updated_YTPlusM">YTPlusM 21.13.6 updated</a> and <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2b4_20.21.6_YTweaks">YTPlusM 20.21.6 for iOS 15</a> pre-built releases, but you can build your version of YTPlusM now! View "How to build a YouTube Plus app using GitHub Actions" and "What Means YTPlusM and YTPlusM DIY"</em></p>
 </details>
