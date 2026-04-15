@@ -1,7 +1,7 @@
-# YTPlus_by_Mark02 (or YTPlusM)
-aaaaaaaaaaaaaaaaaaaaA flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
+# YTPlusM
+A fork of an incredible enhancer for YouTube on iOS, featuring over hundred customizable options with more tweaks than the original <a href="https://github.com/dayanch96/YTLite">YouTube Plus.</a>
 
-<strong>The updates will be published in 5-24 hours</strong>
+<strong>Pre-built IPAs updates will be published in 5-48 hours (variable)</strong>
 
 ## Table of Contents
 - [Screenshots](#screenshots)
@@ -9,7 +9,7 @@ aaaaaaaaaaaaaaaaaaaaA flexible enhancer for YouTube on iOS, featuring over hundr
 - [FAQ](#faq)
 - [Reviews](#reviews)
 - [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
-- [What Means YTPlusM](#what-means-ytplusm)
+- [What Means YTPlusM and YTPlusM DIY](#what-means-ytplusm-and-ytplusm-diy)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Supported YouTube Version For iOS 15](#supported-youtube-version-for-ios-15)
 - [Tweak Integration Details](#tweak-integration-details)
@@ -68,7 +68,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
-> 1. Fork this repository (or the original one by Dayanch96 <a href="https://github.com/dayanch96/YTLite">YTPlus</a>) using the fork button on the top right
+> 1. Fork this repository using the fork button on the top right
 > 2. On your forked repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
 
 <details>
@@ -105,8 +105,13 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   </ol>
 </details>
 
-## What Means YTPlusM
+## What Means YTPlusM and YTPlusM DIY
 <strong>YTPlusM releases</strong> are releases with <strong>two more tweak injected by me</strong> <a href="https://github.com/fosterbarnes/YTweaks">(YTweaks</a> and <a href="https://github.com/castdrian/Gonerino">Gonerino)</a>
+
+
+<strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Go on Actions, workflows, "Create YouTube Plus app", select the branch "YTPlusM_DIY" and create your total functioning IPA!</strong>
+View also [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions) to learn how to create YTPlus and YTPlusM IPAs.
+PS: DIY=DO IT YOURSELF
 
 ## Supported YouTube Version
 <ul>
@@ -114,7 +119,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
    <li><strong>Date tested:</strong> <em>Apr 1, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
 </ul>
-<strong>⚠️YTPlus at the moment doesn't work with the latest version of yt (from 21.14.4 and above), so until Dayanch96 will publish a new stable version of YTPlus compatible with newest yt version I will not build the ipas⚠️</strong>
+<strong>⚠️YTPlus at the moment doesn't work with the latest versions of yt (from 21.14.4 and above), so until Dayanch96 will publish a new stable version of YTPlus compatible with newest yt version I will not build the ipas⚠️</strong>
 
 ## Supported YouTube Version For iOS 15
 <ul>
@@ -179,5 +184,5 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
  <p>Gonerino is a tweak developed by <a href="https://github.com/castdrian">castdrian</a>, a tweak to block specific videos, channels and words for the iOS YouTube app.</p>
  <p><strong>Gonerino preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's repository.</p>
- <p><em>Gonerino is available only from <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_21.13.6_YTUHD_updated_YTweaks">YTPlusM 21.13.6 updated</a> and <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_20.21.6_YTweaks">YTPlusM 20.21.6 for iOS 15</a></em></p>
-</details>
+ <p><em>Gonerino is available only from <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_21.13.6_YTUHD_updated_YTweaks">YTPlusM 21.13.6 updated</a> and <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_20.21.6_YTweaks">YTPlusM 20.21.6 for iOS 15</a> pre-built releases, but you can build your version of YTPlusM now! View "How to build a YouTube Plus app using GitHub Actions" and "What Means YTPlusM and YTPlusM DIY"</em></p>
+</details> 
