@@ -10,6 +10,7 @@ A fork of an incredible enhancer for YouTube on iOS, featuring over hundred cust
 - [Reviews](#reviews)
 - [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
 - [What Means YTPlusM and YTPlusM DIY](#what-means-ytplusm-and-ytplusm-diy)
+- [YTPlusM DIY versions changelog](#ytplusm-diy-versions-changelog)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Supported YouTube Version For iOS 15](#supported-youtube-version-for-ios-15)
 - [Tweak Integration Details](#tweak-integration-details)
@@ -109,13 +110,15 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 <li><strong>YTPlusM:</strong></li>
 <strong>YTPlusM releases and build</strong> are releases with <strong>three more tweak injected by me</strong> (<a href="https://github.com/fosterbarnes/YTweaks">YTweaks</a>, <a href="https://github.com/castdrian/Gonerino">Gonerino</a> and <a href="https://github.com/PoomSmart/YouSpeed">YouSpeed</a>)
 
-
-
 <li><strong>YTPlusM DIY:</strong></li>
 <strong>From now, YOU can build the IPAs of YTPlusM with GitHub Actions! Go on Actions, workflows, "Create YouTube Plus app", select the branch "YTPlusM_DIY" and create your total functioning IPA!</strong>
 View also <a href=#how-to-build-a-youtube-plus-app-using-github-actions>How to build a YouTube Plus app using GitHub Actions</a> to learn how to create YTPlus and YTPlusM IPAs.
 
 PS: DIY=DO IT YOURSELF
+
+## YTPlusM DIY versions changelog
+<li><strong>1.0:</strong></li>
+First release, added YTweaks, Gonerino and YouSpeed injectable
 
 ## Supported YouTube Version
 <ul>
